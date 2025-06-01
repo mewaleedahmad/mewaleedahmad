@@ -25,7 +25,6 @@ I'm deeply passionate about fitness, always pushing my limits physically and men
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
 # 📊 GitHub Stats:
@@ -33,6 +32,15 @@ I'm deeply passionate about fitness, always pushing my limits physically and men
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mewaleedahmad&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 ---
+
+### 🤝 Let's Connect!
+
+I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://waleedahmad.online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad)
+
+
+
   
 [![](https://visitcount.itsvg.in/api?id=mewaleedahmad&icon=0&color=0)](https://visitcount.itsvg.in)
 
