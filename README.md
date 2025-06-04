@@ -9,10 +9,6 @@
 <h2 align="left">🛠️ Skills</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
@@ -29,8 +25,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="45" alt="tailwindcss logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
@@ -44,7 +38,7 @@
 
 <p>I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://waleedahmad.online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) 
 
 
 
