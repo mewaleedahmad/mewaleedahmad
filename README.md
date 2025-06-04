@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Waleed</h1>
 
-<p>I'm a Software Developer skilled in JavaScript, React, Node.js, and Next.js, with hands-on experience building fast, scalable, and responsive web applications. From frontend design to backend logic, I enjoy tackling challenges and continuously pushing my skills to the next level.</p>
+<p>I'm a Full Stack Web Developer with hands-on experience building fast, scalable, and responsive web applications. From frontend design to backend logic, I enjoy tackling challenges and continuously pushing my skills to the next level.</p>
 
 <h4>Beyond Code</h4>
 
@@ -9,29 +9,29 @@
 <h2 align="left">🛠️ Skills</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=expressjs" height="45" alt="expressjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="45" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="44" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="44" alt="expressjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="44" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="44" alt="tailwindcss logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash logo"  />
 </div>
 
 <h2>🤝 Let's Connect!</h2>
