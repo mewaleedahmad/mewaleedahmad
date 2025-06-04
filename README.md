@@ -10,27 +10,27 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="44" alt="javascript logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=expressjs" height="44" alt="expressjs logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="44" alt="typescript logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="44" alt="tailwindcss logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
-  <img width="11" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash logo"  />
 </div>
 
