@@ -10,22 +10,32 @@ I'm deeply passionate about fitness, always pushing my limits physically and men
 
 ### 🛠️ Tech Toolbox
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-1E1E2F?style=for-the-badge&logo=framer-motion&logoColor=#00F2FE)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="50" alt="expressjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="50" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
 
----
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=mewaleedahmad&theme=gruvbox&hide_border=false)<br/>
@@ -37,7 +47,10 @@ I'm deeply passionate about fitness, always pushing my limits physically and men
 
 I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://waleedahmad.online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/mewaleedahmad)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mewaleedahmad)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:waleedgondal57@gmail.com)
+
 
 
 
