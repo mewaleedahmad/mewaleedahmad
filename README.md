@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="44" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
