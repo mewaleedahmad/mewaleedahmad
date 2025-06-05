@@ -27,6 +27,8 @@
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma logo"  />
   <img width="11" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="44" alt="postgresql logo"  />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
