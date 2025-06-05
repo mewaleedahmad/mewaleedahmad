@@ -36,8 +36,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash logo"  />
 </div>
 
 <h2>🤝 Let's Connect!</h2>
