@@ -38,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
 </div>
 
+<h2>📊 GitHub Stats</h2>
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=mewaleedahmad&theme=gruvbox&hide_border=false)
+
 <h2>🤝 Let's Connect!</h2>
 
 <p>I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!</p>
