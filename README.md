@@ -38,7 +38,9 @@
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
 </div>
 
+<h2>📊 GitHub Stats</h2>
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mewaleedahmad&theme=gruvbox-duo&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 <h2>🤝 Let's Connect!</h2>
 
