@@ -29,8 +29,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="44" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
-  <img width="10" />
+<!--   <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
+  <img width="10" /> -->
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
