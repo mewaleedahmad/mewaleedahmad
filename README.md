@@ -1,10 +1,11 @@
 <h1>👋 Hi, I'm Waleed</h1>
 
-<p>I'm a Full Stack Web Developer with hands-on experience building fast, scalable, and responsive web applications. From frontend design to backend logic, I enjoy tackling challenges and continuously pushing my skills to the next level.</p>
+<p>Software Developer from Pakistan specializing in creating fast, scalable, and highly responsive web applications. Beyond coding, I'm deeply passionate about fitness and have a genuine love for exploring new tech.</p>
 
-<h4>Beyond Code</h4>
+<!--<h4>Beyond Code</h4>
 
 <p>I'm deeply passionate about fitness and have a genuine love for exploring new tech. I enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
+-->
 
 <h2 align="left">🛠️ Skills</h2>
 
