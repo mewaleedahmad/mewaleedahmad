@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Waleed</h1>
 
-<p>I'm a Software Engineer with a focus on building fast, scalable, and highly responsive web applications.  
+<p>I'm a Software Developer with a focus on building fast, scalable, and highly responsive web applications.  
 I enjoy working across the full stack, from designing clean and efficient front-end interfaces to building reliable back-end systems.  </p>
 
 <h4>Beyond Code</h4>
