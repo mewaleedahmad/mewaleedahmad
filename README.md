@@ -22,13 +22,15 @@ I enjoy working across the full stack, from designing clean and efficient front-
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="44" alt="tailwindcss logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="44" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="44" alt="postgresql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="44" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker"  />
   <img width="10" />
 <!--   <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
   <img width="10" /> -->
