@@ -1,13 +1,12 @@
-<h1>👋 Hi, I'm Waleed</h1>
+<!-- <h2>👋 Hi, I'm Waleed — A Full Stack Web Developer</h2> -->
 
-<p>I'm a Software Developer with a focus on building fast, scalable, and highly responsive web applications.  
-I enjoy working across the full stack, from designing clean and efficient front-end interfaces to building reliable back-end systems.  </p>
+<i>I craft interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology.</i>
 
-<h4>Beyond Code</h4>
+<!-- <h3>Beyond Code</h3>
 
-<p>I'm deeply passionate about fitness and have a genuine love for exploring new tech. I enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
+<p>I enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
 
-<h2 align="left">🛠️ Skills</h2>
+<h2 align="left">My Toolbox</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="44" alt="javascript logo"  />
@@ -32,8 +31,6 @@ I enjoy working across the full stack, from designing clean and efficient front-
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker"  />
   <img width="10" />
-<!--   <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
-  <img width="10" /> -->
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
@@ -42,11 +39,11 @@ I enjoy working across the full stack, from designing clean and efficient front-
 </div>
 
 
-<h2>🤝 Let's Connect!</h2>
+<h2>Let's Connect!</h2>
 
 <p>I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) 
-
+ -->
 
 
