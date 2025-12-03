@@ -1,8 +1,8 @@
-<!-- <h2>👋 Hi, I'm Waleed — A Full Stack Web Developer</h2> -->
+<h2>👋 Hi, I'm Waleed — Full Stack Web Developer</h2> 
 
-<i>I craft interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology.</i>
+<p>I craft interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology.</p>
 
-<!-- <h3>Beyond Code</h3>
+<h3>Beyond Code</h3>
 
 <p>I enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
 
@@ -44,6 +44,5 @@
 <p>I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) 
- -->
 
 
