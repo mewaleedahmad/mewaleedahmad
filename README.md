@@ -1,13 +1,9 @@
 <h2>👋 Hi, I'm Waleed — Full Stack Web Developer</h2> 
 
-<p>I craft interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology.</p>
+<p>I craft interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology. Beyond code i enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
 
-<h3>Beyond Code</h3>
 
-<p>I enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
-
-<h2 align="left">My Toolbox</h2>
-
+<h2>🛠 My Toolbox</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="4" />
