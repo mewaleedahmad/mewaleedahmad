@@ -11,46 +11,46 @@
     {`
       @keyframes floatOrb1 {
         0% { transform: translate(0px, 0px) scale(1); }
-        50% { transform: translate(60px, -25px) scale(1.15); }
+        50% { transform: translate(45px, -20px) scale(1.1); }
         100% { transform: translate(0px, 0px) scale(1); }
       }
       @keyframes floatOrb2 {
         0% { transform: translate(0px, 0px) scale(1); }
-        50% { transform: translate(-50px, 30px) scale(1.2); }
+        50% { transform: translate(-45px, 20px) scale(1.1); }
         100% { transform: translate(0px, 0px) scale(1); }
       }
       @keyframes scanline {
         0% { transform: translateX(-300px); opacity: 0; }
-        20% { opacity: 0.95; }
-        80% { opacity: 0.95; }
+        20% { opacity: 0.9; }
+        80% { opacity: 0.9; }
         100% { transform: translateX(860px); opacity: 0; }
       }
-      #orb-1 { animation: floatOrb1 11s ease-in-out infinite; }
-      #orb-2 { animation: floatOrb2 15s ease-in-out infinite; }
-      #scan-1 { animation: scanline 6s ease-in-out infinite; }
+      #orb-1-1 { animation: floatOrb1 5s ease-in-out infinite; }
+      #orb-1-2 { animation: floatOrb2 5s ease-in-out infinite; }
+      #scan-1 { animation: scanline 3.5s linear infinite; }
     `}
   </style>
 
   <svg width="860" height="180" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs>
-      <radialGradient id="orbGrad-1" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(180,190,254,0.42)" />
-        <stop offset="60%" stopColor="rgba(180,190,254,0.12)" />
+      <radialGradient id="orbGrad1-1" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(180,190,254,0.45)" />
+        <stop offset="60%" stopColor="rgba(137,180,250,0.15)" />
         <stop offset="100%" stopColor="rgba(180,190,254,0)" />
       </radialGradient>
-      <radialGradient id="orbGrad-2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(203,166,247,0.36)" />
-        <stop offset="70%" stopColor="rgba(203,166,247,0.08)" />
-        <stop offset="100%" stopColor="rgba(203,166,247,0)" />
+      <radialGradient id="orbGrad1-2" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(137,180,250,0.38)" />
+        <stop offset="70%" stopColor="rgba(180,190,254,0.1)" />
+        <stop offset="100%" stopColor="rgba(137,180,250,0)" />
       </radialGradient>
       <linearGradient id="scanGrad-1" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stopColor="rgba(180,190,254,0)" />
-        <stop offset="50%" stopColor="rgba(180,190,254,1)" />
+        <stop offset="50%" stopColor="rgba(180,190,254,0.95)" />
         <stop offset="100%" stopColor="rgba(180,190,254,0)" />
       </linearGradient>
     </defs>
-    <ellipse id="orb-1" cx="740" cy="30" rx="250" ry="170" fill="url(#orbGrad-1)" />
-    <ellipse id="orb-2" cx="120" cy="150" rx="210" ry="140" fill="url(#orbGrad-2)" />
+    <ellipse id="orb-1-1" cx="740" cy="30" rx="250" ry="170" fill="url(#orbGrad1-1)" />
+    <ellipse id="orb-1-2" cx="120" cy="150" rx="210" ry="140" fill="url(#orbGrad1-2)" />
     <rect id="scan-1" x="0" y="0" width="300" height="2" fill="url(#scanGrad-1)" />
   </svg>
 
@@ -65,63 +65,75 @@
 </div>
 ```
 
-```aura width=860 height=350
+```aura width=860 height=285
 <div style={{
   width: '100%', height: '100%', background: '#11111b',
   display: 'flex', flexDirection: 'column',
-  fontFamily: 'Inter', padding: '28px 40px', gap: 14,
+  fontFamily: 'Inter', padding: '26px 40px',
   position: 'relative', overflow: 'hidden',
   borderRadius: 16, border: '1px solid rgba(180,190,254,0.24)',
 }}>
 
   <style>
     {`
-      @keyframes floatOrbStack {
+      @keyframes floatOrb2-1 {
         0% { transform: translate(0px, 0px) scale(1); }
-        50% { transform: translate(-50px, 30px) scale(1.15); }
+        50% { transform: translate(-45px, -20px) scale(1.1); }
         100% { transform: translate(0px, 0px) scale(1); }
       }
-      @keyframes scanlineStack {
+      @keyframes floatOrb2-2 {
+        0% { transform: translate(0px, 0px) scale(1); }
+        50% { transform: translate(45px, 20px) scale(1.1); }
+        100% { transform: translate(0px, 0px) scale(1); }
+      }
+      @keyframes scanline2 {
         0% { transform: translateX(-300px); opacity: 0; }
-        20% { opacity: 0.95; }
-        80% { opacity: 0.95; }
+        20% { opacity: 0.9; }
+        80% { opacity: 0.9; }
         100% { transform: translateX(860px); opacity: 0; }
       }
-      #orb-stack { animation: floatOrbStack 13s ease-in-out infinite; }
-      #scan-stack { animation: scanlineStack 7s ease-in-out infinite; }
+      #orb-2-1 { animation: floatOrb2-1 5s ease-in-out infinite; }
+      #orb-2-2 { animation: floatOrb2-2 5s ease-in-out infinite; }
+      #scan-2 { animation: scanline2 3.5s linear infinite; }
     `}
   </style>
 
-  <svg width="860" height="350" style={{ position: 'absolute', top: 0, left: 0 }}>
+  <svg width="860" height="285" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs>
-      <radialGradient id="orbGradStack" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(180,190,254,0.36)" />
-        <stop offset="60%" stopColor="rgba(203,166,247,0.14)" />
+      <radialGradient id="orbGrad2-1" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(180,190,254,0.42)" />
+        <stop offset="60%" stopColor="rgba(137,180,250,0.12)" />
         <stop offset="100%" stopColor="rgba(180,190,254,0)" />
       </radialGradient>
-      <linearGradient id="scanGradStack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <radialGradient id="orbGrad2-2" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(116,199,236,0.38)" />
+        <stop offset="70%" stopColor="rgba(180,190,254,0.08)" />
+        <stop offset="100%" stopColor="rgba(116,199,236,0)" />
+      </radialGradient>
+      <linearGradient id="scanGrad-2" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stopColor="rgba(180,190,254,0)" />
         <stop offset="50%" stopColor="rgba(180,190,254,0.95)" />
         <stop offset="100%" stopColor="rgba(180,190,254,0)" />
       </linearGradient>
     </defs>
-    <ellipse id="orb-stack" cx="150" cy="300" rx="270" ry="190" fill="url(#orbGradStack)" />
-    <rect id="scan-stack" x="0" y="0" width="300" height="2" fill="url(#scanGradStack)" />
+    <ellipse id="orb-2-1" cx="720" cy="240" rx="260" ry="170" fill="url(#orbGrad2-1)" />
+    <ellipse id="orb-2-2" cx="140" cy="40" rx="220" ry="150" fill="url(#orbGrad2-2)" />
+    <rect id="scan-2" x="0" y="0" width="300" height="2" fill="url(#scanGrad-2)" />
   </svg>
 
-  <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
+  <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 20 }}>
     <div style={{ width: 4, height: 16, borderRadius: 2, background: '#b4befe' }} />
     <div style={{ display: 'flex', fontSize: 12, fontWeight: 800, color: '#b4befe', letterSpacing: '3px' }}>
       TECH STACK
     </div>
   </div>
 
-  <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+  <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
     {[
-      { title: 'Languages', color: '#b4befe', items: ['JavaScript', 'TypeScript', 'PHP', 'Lua'] },
-      { title: 'Frameworks', color: '#cba6f7', items: ['React.js', 'Next.js', 'Laravel'] },
-      { title: 'Databases & ORM', color: '#74c7ec', items: ['MongoDB', 'PostgreSQL', 'MySQL', 'Prisma'] },
-      { title: 'DevOps', color: '#f5c2e7', items: ['Docker', 'Git', 'Cloudflare'] },
+      { title: 'Languages', color: '#b4befe', items: ['JavaScript', 'TypeScript', 'PHP'] },
+      { title: 'Frameworks', color: '#89b4fa', items: ['React.js', 'Next.js', 'Laravel'] },
+      { title: 'Databases & ORM', color: '#74c7ec', items: ['MongoDB', 'PostgreSQL', 'Prisma'] },
+      { title: 'DevOps', color: '#89dceb', items: ['Docker', 'Git', 'Cloudflare'] },
     ].map(function(cat) {
       return (
         <div key={cat.title} style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
@@ -149,54 +161,66 @@
 </div>
 ```
 
-```aura width=860 height=195
+```aura width=860 height=165
 <div style={{
   width: '100%', height: '100%', background: '#11111b',
   display: 'flex', flexDirection: 'column',
-  fontFamily: 'Inter', padding: '26px 40px', gap: 14,
+  fontFamily: 'Inter', padding: '24px 40px',
   position: 'relative', overflow: 'hidden',
   borderRadius: 16, border: '1px solid rgba(180,190,254,0.24)',
 }}>
 
   <style>
     {`
-      @keyframes floatOrbSys {
+      @keyframes floatOrb3-1 {
         0% { transform: translate(0px, 0px) scale(1); }
-        50% { transform: translate(45px, -20px) scale(1.15); }
+        50% { transform: translate(-45px, 20px) scale(1.1); }
         100% { transform: translate(0px, 0px) scale(1); }
       }
-      @keyframes scanlineSys {
+      @keyframes floatOrb3-2 {
+        0% { transform: translate(0px, 0px) scale(1); }
+        50% { transform: translate(45px, -20px) scale(1.1); }
+        100% { transform: translate(0px, 0px) scale(1); }
+      }
+      @keyframes scanline3 {
         0% { transform: translateX(-300px); opacity: 0; }
-        20% { opacity: 0.95; }
-        80% { opacity: 0.95; }
+        20% { opacity: 0.9; }
+        80% { opacity: 0.9; }
         100% { transform: translateX(860px); opacity: 0; }
       }
-      #orb-sys { animation: floatOrbSys 11s ease-in-out infinite; }
-      #scan-sys { animation: scanlineSys 6.5s ease-in-out infinite; }
+      #orb-3-1 { animation: floatOrb3-1 5s ease-in-out infinite; }
+      #orb-3-2 { animation: floatOrb3-2 5s ease-in-out infinite; }
+      #scan-3 { animation: scanline3 3.5s linear infinite; }
     `}
   </style>
 
-  <svg width="860" height="195" style={{ position: 'absolute', top: 0, left: 0 }}>
+  <svg width="860" height="165" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs>
-      <radialGradient id="orbGradSys" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor="rgba(180,190,254,0.36)" />
-        <stop offset="60%" stopColor="rgba(148,226,213,0.14)" />
+      <radialGradient id="orbGrad3-1" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(180,190,254,0.42)" />
+        <stop offset="60%" stopColor="rgba(137,180,250,0.12)" />
         <stop offset="100%" stopColor="rgba(180,190,254,0)" />
       </radialGradient>
-      <linearGradient id="scanGradSys" x1="0%" y1="0%" x2="100%" y2="0%">
+      <radialGradient id="orbGrad3-2" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(137,180,250,0.35)" />
+        <stop offset="70%" stopColor="rgba(180,190,254,0.08)" />
+        <stop offset="100%" stopColor="rgba(137,180,250,0)" />
+      </radialGradient>
+      <linearGradient id="scanGrad-3" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stopColor="rgba(180,190,254,0)" />
         <stop offset="50%" stopColor="rgba(180,190,254,0.95)" />
         <stop offset="100%" stopColor="rgba(180,190,254,0)" />
       </linearGradient>
     </defs>
-    <ellipse id="orb-sys" cx="720" cy="140" rx="250" ry="170" fill="url(#orbGradSys)" />
-    <rect id="scan-sys" x="0" y="0" width="300" height="2" fill="url(#scanGradSys)" />
+    <ellipse id="orb-3-1" cx="750" cy="90" rx="250" ry="160" fill="url(#orbGrad3-1)" />
+    <ellipse id="orb-3-2" cx="220" cy="160" rx="230" ry="140" fill="url(#orbGrad3-2)" />
+    <rect id="scan-3" x="0" y="0" width="300" height="2" fill="url(#scanGrad-3)" />
   </svg>
 
-  <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
+  <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 20 }}>
     <div style={{ width: 4, height: 16, borderRadius: 2, background: '#b4befe' }} />
     <div style={{ display: 'flex', fontSize: 12, fontWeight: 800, color: '#b4befe', letterSpacing: '3px' }}>
-      SYSTEM & DEV ENVIRONMENT
+      DEV ENVIRONMENT
     </div>
   </div>
 
@@ -204,13 +228,13 @@
     {[
       { label: 'OS', value: 'Arch Linux', color: '#74c7ec' },
       { label: 'WM', value: 'Niri', color: '#b4befe' },
-      { label: 'TERMINAL', value: 'WezTerm', color: '#94e2d5' },
-      { label: 'EDITOR', value: 'Neovim', color: '#a6e3a1' },
+      { label: 'TERMINAL', value: 'WezTerm', color: '#89b4fa' },
+      { label: 'CODE EDITOR', value: 'Neovim', color: '#89dceb' },
     ].map(function(item) {
       return (
         <div key={item.label} style={{
           flex: 1, display: 'flex', flexDirection: 'column', gap: 6,
-          padding: '18px 20px', borderRadius: 14,
+          padding: '16px 18px', borderRadius: 14,
           background: 'linear-gradient(135deg, rgba(180,190,254,0.08) 0%, rgba(30,30,46,0.5) 100%)',
           border: '1px solid rgba(180,190,254,0.22)',
         }}>
